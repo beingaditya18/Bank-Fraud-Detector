@@ -22,7 +22,7 @@ Detect fraudulent transactions using machine learning on real-world credit card 
 Features:
 
 - ✅ **Isolation Forest** anomaly detection
-- ✅ **Real-time** predictions with a beautiful Streamlit UI
+- ✅ **Real-time** predictions with a Streamlit UI
 - ✅ Clean, modular, production-ready code
 - ✅ Easy-to-read analytics & results
 
@@ -66,13 +66,7 @@ Features:
 - Download: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Place `creditcard.csv` in the `data/` folder.
 
----
 
-## 🛠️ Next Steps
-
-- Add supervised models (e.g., SVM)
-- Store results in SQLite
-- Advanced analytics & heatmaps
 
 
 
