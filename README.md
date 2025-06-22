@@ -2,9 +2,7 @@
 
 A powerful, real-time fraud detection system built with **Isolation Forest** and an interactive **Streamlit dashboard** to identify suspicious banking transactions.
 
-![Fraud Detection Banner](assets/fraud_banner.png)
 
----
 
 ## 🚀 Quick Start
 
