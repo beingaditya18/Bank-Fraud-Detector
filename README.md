@@ -21,11 +21,10 @@ streamlit run app.py    # Launch the dashboard
 Detect fraudulent transactions using machine learning on real-world credit card data.  
 Features:
 
-- ✅ **Isolation Forest** anomaly detection
-- ✅ **Real-time** predictions with a Streamlit UI
-- ✅ Clean, modular, production-ready code
-- ✅ Easy-to-read analytics & results
+   **Isolation Forest** anomaly detection
+   **Real-time** predictions with a Streamlit UI
 
+  
 ---
 
 ## 🏗️ Project Structure
